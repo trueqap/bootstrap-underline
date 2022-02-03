@@ -7,15 +7,9 @@ Styling Underlines with Bootstrap 5
 ### HTML
 
 ```html
-<span class="underline"
-  >Lorem ipsum dolor sit amet, consectetur adipiscing elit</span
->
-<span class="underline underline-3"
-  >Lorem ipsum dolor sit amet, consectetur adipiscing elit</span
->
-<span class="underline underline-3 underline-primary"
-  >Lorem ipsum dolor sit amet, consectetur adipiscing elit</span
->
+<span class="underline">Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
+<span class="underline underline-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
+<span class="underline underline-3 underline-primary">Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
 ```
 
 ### Results
